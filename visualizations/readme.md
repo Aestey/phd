@@ -2,6 +2,7 @@ For SIGCSE 2017:
 parallel coordinates:
 
 
+
 Exploratory:
 
 Chord chart:
@@ -15,3 +16,5 @@ states as they went from one question to the next.
 Sankey chart:
 Vertical and horizontal sankey charts showing flow across questions within a study session,
 and average showing average changes in work state across sessions.
+
+ITiCSE 2017 visualizations will also be added after visualizations are tweaked for camera ready version.
