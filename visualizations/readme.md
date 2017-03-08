@@ -1,9 +1,11 @@
-For SIGCSE 2017:
+SIGCSE 2017:
 parallel coordinates:
 
 
+ITiCSE 2017: visualizations will also be added after visualizations are tweaked for camera ready version.
 
-Exploratory:
+
+Other Exploratory stuff:
 
 Chord chart:
 http://webhome.csc.uvic.ca/~aestey/graphs/d3-chord/learning.html
@@ -17,4 +19,3 @@ Sankey chart:
 Vertical and horizontal sankey charts showing flow across questions within a study session,
 and average showing average changes in work state across sessions.
 
-ITiCSE 2017 visualizations will also be added after visualizations are tweaked for camera ready version.
